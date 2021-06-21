@@ -1,0 +1,10 @@
+E:\emailengineapi\emailengineapi\emailengineapi\bin\Debug\netcoreapp3.1\publish\emailengineapi
+E:\emailengineapi\emailengineapi\emailengineapi\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
+E:\emailengineapi\emailengineapi\emailengineapi\bin\Debug\netcoreapp3.1\publish\appsettings.json
+E:\emailengineapi\emailengineapi\emailengineapi\bin\Debug\netcoreapp3.1\publish\emailengineapi.dll
+E:\emailengineapi\emailengineapi\emailengineapi\bin\Debug\netcoreapp3.1\publish\emailengineapi.deps.json
+E:\emailengineapi\emailengineapi\emailengineapi\bin\Debug\netcoreapp3.1\publish\emailengineapi.runtimeconfig.json
+E:\emailengineapi\emailengineapi\emailengineapi\bin\Debug\netcoreapp3.1\publish\emailengineapi.pdb
+E:\emailengineapi\emailengineapi\emailengineapi\bin\Debug\netcoreapp3.1\publish\AngleSharp.dll
+E:\emailengineapi\emailengineapi\emailengineapi\bin\Debug\netcoreapp3.1\publish\Newtonsoft.Json.dll
+E:\emailengineapi\emailengineapi\emailengineapi\bin\Debug\netcoreapp3.1\publish\PreMailer.Net.dll
